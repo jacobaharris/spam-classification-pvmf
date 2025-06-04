@@ -10,12 +10,6 @@ It compares a Positive von Mises–Fisher (PvMF) model with traditional logistic
 - Evaluation using accuracy, precision, and recall
 - Visual confusion matrices
 
-## Folder Structure
-- `notebooks/`: Jupyter notebook with full workflow
-- `src/`: Python scripts for preprocessing, modeling, and evaluation
-- `plots/`: Output plots from the notebook
-- `data/`: Placeholder folder for the Enron dataset
-
 ## Setup
 ```bash
 pip install -r requirements.txt
